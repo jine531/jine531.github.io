@@ -39,7 +39,7 @@ ex) jine531.github.io
 1. Settings -> Pages -> Source -> Deploy form a branch 선택합니다.
 2. https://user_name.github.io 접속하여 확인할수 있습니다.
 
-### 만약 접속이 되지 않는 경우
+# 만약 접속이 되지 않는 경우
 
 Settings - Pages - Branch를 `main`으로 변경
 
