@@ -40,7 +40,7 @@ published: true
 ![naver4](https://github.com/user-attachments/assets/2e553ef1-bafe-41e5-9480-a2114a3640b8)
 
 &nbsp;
-![참고한사이트]<https://jaehee-kim24.github.io/posts/github%EB%B8%94%EB%A1%9C%EA%B7%B8_%EA%B2%80%EC%83%89%EB%85%B8%EC%B6%9C%ED%95%98%EA%B8%B0_naver/>
+[참고사이트](https://jaehee-kim24.github.io/posts/github%EB%B8%94%EB%A1%9C%EA%B7%B8_%EA%B2%80%EC%83%89%EB%85%B8%EC%B6%9C%ED%95%98%EA%B8%B0_naver/)
 
 &nbsp;
 &nbsp;
@@ -79,4 +79,5 @@ webmaster_verifications:
 ![google5](https://github.com/user-attachments/assets/fbdda082-2dc6-4543-9f38-f5f9181eb7f1)
 
 &nbsp;
-![참고한사이트]<https://jaehee-kim24.github.io/posts/github%EB%B8%94%EB%A1%9C%EA%B7%B8_%EA%B2%80%EC%83%89%EB%85%B8%EC%B6%9C%ED%95%98%EA%B8%B0/>
+&nbsp;
+[참고사이트](https://jaehee-kim24.github.io/posts/github%EB%B8%94%EB%A1%9C%EA%B7%B8_%EA%B2%80%EC%83%89%EB%85%B8%EC%B6%9C%ED%95%98%EA%B8%B0/)
