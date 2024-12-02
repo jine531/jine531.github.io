@@ -46,16 +46,6 @@ published: true
 ![repo](/assets/img/repo.png)
 &nbsp;
 3. Enable Utterances에 생긴 코드를 복사하고 _layout/post.html에 붙여넣습니다
-``` 
-<script src="https://utteranc.es/client.js"
-        repo="Whiterangi/Whiterangi.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-</article>
-```
 &nbsp;
 4. _config.yml을 수정해줍니다
 - ex
