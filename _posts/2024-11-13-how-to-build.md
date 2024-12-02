@@ -8,6 +8,7 @@ last_modified_at: 2024-11-14
 
 categories: [Blog]
 tags: [Blog, jekyll, Github, Git]
+author: jine
 
 pin: true
 toc: true

@@ -8,6 +8,7 @@ last_modified_at: 2024-11-16
 
 categories: [Blog]
 tags: [Blog, chirpy, Git]
+author: jine
 
 pin: true
 toc: true
