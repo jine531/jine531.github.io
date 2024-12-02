@@ -6,7 +6,7 @@ description: Github에서 chirpy테마를 이용하여 blog 제작하는 포스�
 date: 2024-11-13 
 last_modified_at: 2024-11-14 
 
-categories: [Blogging, Tutorial]
+categories: [Blog]
 tags: [Blog, jekyll, Github, Git]
 
 pin: true

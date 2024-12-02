@@ -6,7 +6,7 @@ description: Github Blog에 utterances를 댓글 기능을 추가하는 포스�
 date: 2024-11-16 
 last_modified_at: 2024-11-16 
 
-categories: [Blogging, Tutorial]
+categories: [Blog]
 tags: [Blog, utterances, chirpy, Git]
 
 pin: true
@@ -48,7 +48,6 @@ published: true
 3. Enable Utterances에 생긴 코드를 복사하고 _layout/post.html에 붙여넣습니다
 &nbsp;
 4. _config.yml을 수정해줍니다
-- ex
 ``` yml
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
