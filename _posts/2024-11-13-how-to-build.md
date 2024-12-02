@@ -15,7 +15,7 @@ toc_sticky: true
 published: true
 ---
 
-# step 0 시작 전 준비할것
+# step 0 : 시작 전 준비할것
 
 - 운영체제는 `Windows 64blt`를 기준으로 설명을 합니다.
 - [Github](https://github.com/signup?source=login) 가입
