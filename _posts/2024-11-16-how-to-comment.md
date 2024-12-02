@@ -48,7 +48,6 @@ published: true
 3. Enable Utterances에 생긴 코드를 복사하고 _layout/post.html에 붙여넣습니다
 &nbsp;
 4. _config.yml을 수정해줍니다
-- ex
 ``` yml
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
@@ -58,7 +57,7 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: jine531/jine531.github.io
+    repo: choi-day/choi-day.github.io
     issue_term: pathname
 ```
 - 1. provider를 utterances로 변경
