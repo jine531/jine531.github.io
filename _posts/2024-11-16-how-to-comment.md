@@ -67,7 +67,7 @@ comments:
 
 # step 3 : 확인하기
 자신의 블로그에 들어가 확인해봅시다
-![comment](assets/img/comment.png)
+![comment](/assets/img/comment.png)
 
 
 
